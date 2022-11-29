@@ -1,0 +1,6 @@
+<roadAccidents>
+ <roadAccident date_time = " 2020-05-05 15:39:03 " first_name = "Ivan " last_name = " Ivanov " type = " SPEEDIG "  fine_amount = " 340.00"  />
+  <roadAccident date_time = " 2020-05-05 15:39:03 " first_name = "Ivan " last_name = " Ivanov " type = " SPEEDING "  fine_amount = " 340.00"  />
+  <roadAccident date_time = " 2020-05-05 15:39:03 " first_name = "Ivan " last_name = " Ivanov " type = " SPEEDING "  fine_amount = " 340.00"  />
+  <roadAccident date_time = " 2020-05-05 15:39:03 " first_name = "Ivan " last_name = " Ivanov " type = " SPEEDING "  fine_amount = " 340.00"  />
+</roadAccidents>
